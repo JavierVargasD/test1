@@ -3,6 +3,7 @@ info:
   version: 1.0.0
   title: Swagger Petstore
   contact: {}
+  description: pet test API
 host: petstore.swagger.io
 basePath: /v1
 schemes:
